@@ -1,0 +1,96 @@
+.frame {
+    margin : auto;
+    width : 1000px;
+    height : 1200px;
+}
+
+.index{
+    margin : 0;
+    width : 30%;
+    height : 100%;
+    float : left;
+    background : #000080;
+    outline : solid 1px #000080;
+}
+
+.contents{
+    margin : 0;
+    width : 70%;
+    height : 100%;
+    float : right;
+    background: white;
+    outline : solid 1px #000080;
+}
+
+.headshot {
+    width : 180px;
+    height : 230px;
+    margin : 20%;
+    border-radius : 20%;
+}
+
+.indexFont{
+    margin : 0;
+    font-size : 30px;
+    font-weight : 500;
+    color : white;
+}
+.defaultFont {
+    margin : 0;
+    font-size : 20pt;
+    font-weight : 200;
+    border : 0;
+    color : #000080;
+}
+
+.contentsFont{
+    margin : 0;
+    font-size : 18pt;
+    font-weight : 200;
+    border : 0;
+    color : black;
+}
+
+.bigFont {
+    margin : 0;
+    font-size : 50px;
+    font-weight : 200;
+    color : blue;
+    border : 0;
+}
+
+.blurFont {
+    margin : 0;
+    font-size : 20px;
+    font-weight : 200;
+    color : #959595;
+}
+
+.name {
+    margin : 0;
+    border : 0;
+    padding : 100px;
+    margin-top:44px;
+    margin-bottom:10px;
+}
+
+.one{
+    margin-left : 60px;
+    padding-bottom : 90px;
+}
+
+.two{
+    margin-left : 60px;
+    padding-bottom : 143px;
+}
+
+.three{
+    margin-left : 60px;
+    padding-bottom : 142px;
+
+}
+
+.four{
+    margin-left : 60px;
+}
+
